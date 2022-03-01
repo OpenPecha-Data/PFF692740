@@ -1,0 +1,396 @@
+id: PFF692740
+initial_creation_type: input
+source_metadata:
+  title: Gaganagañjaparipṛcchā
+  language: zh
+  volumes:
+    3887d3b6dff74e138d5308b2b3f56580:
+      title: CIII_10 Immeasurables
+      base_file: CIII_10 Immeasurables.txt
+      work_id: W93C367CC
+    4eec4148c0a64e83b97258907fbefccb:
+      title: CIII_10 Qualities
+      base_file: CIII_10 Qualities.txt
+      work_id: W822168A2
+    749f5bcebefa494dbde9fa66006b49cb:
+      title: CIII_10th Dharmānusmṛti
+      base_file: CIII_10th Dharmānusmṛti.txt
+      work_id: W25163351
+    f4e28c881a0941c281dfd54da0a10a7f:
+      title: CIII_11th Saṃghānusmṛti
+      base_file: CIII_11th Saṃghānusmṛti.txt
+      work_id: WA0685527
+    080516d973294eccb28e3cd7febebb21:
+      title: CIII_12 Qualities
+      base_file: CIII_12 Qualities.txt
+      work_id: WF20958F1
+    a9ce4385de9c42bc9548969cd225fd5e:
+      title: CIII_12th Tyāgānusmṛti
+      base_file: CIII_12th Tyāgānusmṛti.txt
+      work_id: W40040E6D
+    9308d398f86f47c89ecc0a102ff45156:
+      title: CIII_13th Śīlānusmṛti
+      base_file: CIII_13th Śīlānusmṛti.txt
+      work_id: WBF16B3FC
+    e2797a69e62b43f382b6efcf80c38157:
+      title: CIII_15th Nirvāṇasamatā
+      base_file: CIII_15th Nirvāṇasamatā.txt
+      work_id: W323CA308
+    4edf22243fc84207825fe155092aa4a5:
+      title: CIII_16th Caritalakṣaṇa
+      base_file: CIII_16th Caritalakṣaṇa.txt
+      work_id: W8BBC48EB
+    0fb95fbd4b454b4183433dd193b4d2b8:
+      title: CIII_17th Dharmaratnanidhāna
+      base_file: CIII_17th Dharmaratnanidhāna.txt
+      work_id: WFDB63533
+    6d51800e2fcf47b8b1fd24e66eee7581:
+      title: CIII_18th Dharmasvabhāva
+      base_file: CIII_18th Dharmasvabhāva.txt
+      work_id: W8ECF4B41
+    a90a37a0a7fa4756978a75bfbdd162c2:
+      title: CIII_19th Satvādiviśuddhi
+      base_file: CIII_19th Satvādiviśuddhi.txt
+      work_id: W0F49D3D1
+    ea3fcd6409d845bfa709ce1523c96fb9:
+      title: CIII_2 Vigours
+      base_file: CIII_2 Vigours.txt
+      work_id: W08874462
+    de19165816b64c0db055f1e0890b26a3:
+      title: CIII_20th Dharmaprayoga
+      base_file: CIII_20th Dharmaprayoga.txt
+      work_id: W41883F58
+    2e26f5ddfe3c4021b3db5a677b62b9f5:
+      title: CIII_21th Dharmādhipateya
+      base_file: CIII_21th Dharmādhipateya.txt
+      work_id: W1B580355
+    c38664f5d0e6442795506a8b98607d16:
+      title: CIII_22th Dharmanaya
+      base_file: CIII_22th Dharmanaya.txt
+      work_id: WE754846F
+    c1672aa841434b67925f8af32e459b5a:
+      title: CIII_23th Pratītyasamutpāda
+      base_file: CIII_23th Pratītyasamutpāda.txt
+      work_id: WB4A92E2B
+    195edf001b554af9a020e3fce3a1546b:
+      title: CIII_24 Eloquence
+      base_file: CIII_24 Eloquence.txt
+      work_id: WAEACDF3E
+    8859152931d744cc9d67b8c1d8d5e3a8:
+      title: CIII_24 Preparations
+      base_file: CIII_24 Preparations.txt
+      work_id: WD595F9F5
+    aa08589b3a0d4d1f8b7eacc0783e3680:
+      title: CIII_24th Tathāgatamudra
+      base_file: CIII_24th Tathāgatamudra.txt
+      work_id: WEF87E015
+    85dc75afcf1743f785ee9b744a18bf50:
+      title: CIII_25th Dharmadhātu
+      base_file: CIII_25th Dharmadhātu.txt
+      work_id: W0F63A8BD
+    fb5671ed2c3a441b8ddeb28aa3c3b492:
+      title: CIII_26th Dṛḍavajrāśaya
+      base_file: CIII_26th Dṛḍavajrāśaya.txt
+      work_id: WEF5FEDD4
+    a400d40ccd414737abc240ebc29260e5:
+      title: CIII_27th Buddhaviṣaya
+      base_file: CIII_27th Buddhaviṣaya.txt
+      work_id: W2F619522
+    2b9910527732406bbd222cf401b3f1a6:
+      title: CIII_32 Purifications
+      base_file: CIII_32 Purifications.txt
+      work_id: W75E45F3C
+    1752c7b5fb844e51a7884ae9951977e8:
+      title: CIII_32th Upajīvya
+      base_file: CIII_32th Upajīvya.txt
+      work_id: W4444E81F
+    aa8a96f8a6314f5a995e7de6bbf69040:
+      title: CIII_33th Buddhakārya
+      base_file: CIII_33th Buddhakārya.txt
+      work_id: W55182EAA
+    a4c6a1ec1b8f40b4aba23099bbb4b2ac:
+      title: CIII_34th Sāgaramudrāsamādhi
+      base_file: CIII_34th Sāgaramudrāsamādhi.txt
+      work_id: WBA2AAA29
+    66e19184518749d6a6a30233939f7e55:
+      title: CIII_35th Saṅgasamatikrānta
+      base_file: CIII_35th Saṅgasamatikrānta.txt
+      work_id: WB697F687
+    c01d6b799a69417c92660911da371045:
+      title: CIII_36th Ācāracāritra
+      base_file: CIII_36th Ācāracāritra.txt
+      work_id: WFCF9A8DB
+    7425708d486e4a6398993aed6eb7a6b4:
+      title: CIII_37th Svayaṃbhujñāna
+      base_file: CIII_37th Svayaṃbhujñāna.txt
+      work_id: WAB962682
+    9859a83a6e674dacba5e41a10adac1e2:
+      title: CIII_4 Māras
+      base_file: CIII_4 Māras.txt
+      work_id: W4AB9C9DA
+    65d4cd40cc744c4a865c87c8a4227288:
+      title: CIII_4 Qualities
+      base_file: CIII_4 Qualities.txt
+      work_id: WC13AA8CB
+    a01791decabe4cfaaf42db898818d5bd:
+      title: CIII_8 Patiences
+      base_file: CIII_8 Patiences.txt
+      work_id: WFAA32F94
+    cf46292e187749f8bbd3ac052bbeaed6:
+      title: CIII_8 Purities
+      base_file: CIII_8 Purities.txt
+      work_id: W62257C3D
+    0d98cf1e067d48a1b17e6dbf200db959:
+      title: CIII_8 Qualities
+      base_file: CIII_8 Qualities.txt
+      work_id: W581B4B48
+    65594f5ebad2470cb9dea3860d0829f5:
+      title: CIII_8 Vigours
+      base_file: CIII_8 Vigours.txt
+      work_id: W88B8A270
+    17f023d105f348349499beb6a87ef31b:
+      title: CIII_8th Jñāna
+      base_file: CIII_8th Jñāna.txt
+      work_id: W847E9216
+    aff0ad92676047b39b022109f1f6a0b8:
+      title: CIII_9th Buddhānusmṛti
+      base_file: CIII_9th Buddhānusmṛti.txt
+      work_id: W38A56986
+    9c3ef21b2b814ffb941bf7a14f538b20:
+      title: CIII_Examples
+      base_file: CIII_Examples.txt
+      work_id: WC2122AB6
+    c94a987d80a845b78f5c694db6d1c4fa:
+      title: CIII_Meaning
+      base_file: CIII_Meaning.txt
+      work_id: W4FFF95CD
+    9266f3f3e41f4eee832333a00d72a287:
+      title: CIII_Memory
+      base_file: CIII_Memory.txt
+      work_id: WF48EB09E
+    4f0c1f2109a349a592a3eb2dd4aebe5d:
+      title: CIII_Mārakarman
+      base_file: CIII_Mārakarman.txt
+      work_id: W68F6F546
+    099e5e1c87e04a7eacd870ededa4d52b:
+      title: CIII_Pradīpapāṇi
+      base_file: CIII_Pradīpapāṇi.txt
+      work_id: W57477A93
+    799eecd190dd462ab44a994b7722b009:
+      title: CIII_Qualities
+      base_file: CIII_Qualities.txt
+      work_id: W4F8B655B
+    14d4f1d1e87844cb801223c5aea31774:
+      title: CIII_Similes
+      base_file: CIII_Similes.txt
+      work_id: W58C9A679
+    3fcc51a4b35f409d893aebdb29e03e39:
+      title: CIII_Verses 31-41
+      base_file: CIII_Verses 31-41.txt
+      work_id: WB7379CAC
+    fc0a0741a4df4f65a04094b3c4ab665f:
+      title: CIII_Verses 42-51
+      base_file: CIII_Verses 42-51.txt
+      work_id: W88229696
+    d87dc1b8d2a34107913303e401d073a3:
+      title: CIII_Verses 52-56
+      base_file: CIII_Verses 52-56.txt
+      work_id: W994EA3B0
+    ffd39d19dbf949cca0003bcfe0368dc2:
+      title: CIII_Verses 57-66
+      base_file: CIII_Verses 57-66.txt
+      work_id: W43D21C07
+    62cbe045aa8f418b9b6e526fd63a0f06:
+      title: CIII_Verses 67-76
+      base_file: CIII_Verses 67-76.txt
+      work_id: W971C928B
+    241d41b3f288410698da23da6e1c15b6:
+      title: CIII_Verses 77-86
+      base_file: CIII_Verses 77-86.txt
+      work_id: WA935CD4F
+    0ae691034d0b46eea951814c73aec618:
+      title: CIII_Verses 87-118
+      base_file: CIII_Verses 87-118.txt
+      work_id: W796697AC
+    2682a4ce1aa042db8cbc3e50a36ce2cd:
+      title: CIII_Vyākaraṇa
+      base_file: CIII_Vyākaraṇa.txt
+      work_id: WBBBD6748
+    7133b0225ba8467797ec1fd04bea0c02:
+      title: CII_Bodhisattvas
+      base_file: CII_Bodhisattvas.txt
+      work_id: W44FC8227
+    42685cd8c0a44544a8abe1b736a2de67:
+      title: CII_Buddhaguṇa
+      base_file: CII_Buddhaguṇa.txt
+      work_id: WEF5866A6
+    3871b520b48343e7a43a22afeb55d392:
+      title: CII_Dharmamudrā
+      base_file: CII_Dharmamudrā.txt
+      work_id: W8652244C
+    18c920d3c6bf4fdbbcc9fbadd6c20500:
+      title: CII_Gaganagañja
+      base_file: CII_Gaganagañja.txt
+      work_id: WE3AE8577
+    7e9c6a98ac8542f4a1860d5d9f969e2b:
+      title: CII_Kūṭāgāra
+      base_file: CII_Kūṭāgāra.txt
+      work_id: W082FB2DF
+    89832cb45499486da56dc0f19b527e81:
+      title: CII_Verses 1-20
+      base_file: CII_Verses 1-20.txt
+      work_id: WB0B33001
+    f8cb99b5036d43d493cdca2cc62bb89f:
+      title: CII_Verses 21-30
+      base_file: CII_Verses 21-30.txt
+      work_id: W702A9564
+    1883367b1b214cc9aee5719cc86edbf0:
+      title: CIV_Abhayadāna
+      base_file: CIV_Abhayadāna.txt
+      work_id: W749CF511
+    7801d05827ce4ae1a84f19b9a041bfe9:
+      title: CIV_Amṛtavarṣa
+      base_file: CIV_Amṛtavarṣa.txt
+      work_id: W6119BF36
+    f93e6d5ad2a4480bad775b07bc6563b5:
+      title: CIV_Dharmavarṣa
+      base_file: CIV_Dharmavarṣa.txt
+      work_id: W22077AC8
+    8e40ed3af7214602b3f7ece8527212fe:
+      title: CIV_Puṣpavarṣa
+      base_file: CIV_Puṣpavarṣa.txt
+      work_id: W79B0766D
+    715aa5b6e901496c9dd9a40a5c2a218c:
+      title: CIV_Pāramitāvarṣa
+      base_file: CIV_Pāramitāvarṣa.txt
+      work_id: W66EF7A66
+    ae476dacf72746d5963cb629831e5b5f:
+      title: CIV_Ratnavarṣa
+      base_file: CIV_Ratnavarṣa.txt
+      work_id: WDAE156D7
+    05622a985d6b4c8c84ec1044d0f56e06:
+      title: CIV_Verses 119-122
+      base_file: CIV_Verses 119-122.txt
+      work_id: WD5E4D110
+    d102d491776e4509a211b8eaa99ad8fb:
+      title: CIV_Āhāracīvaravarṣa
+      base_file: CIV_Āhāracīvaravarṣa.txt
+      work_id: W646D7FD7
+    6a96de8939f842979e5b8c1cdfdb5b72:
+      title: CI_Bodhisatvas
+      base_file: CI_Bodhisatvas.txt
+      work_id: WE3C80F34
+    d366e4a3274b4bba90bb71360de67b42:
+      title: CI_Buddha
+      base_file: CI_Buddha.txt
+      work_id: WDFDD4333
+    6d32a590125d4166ad2ee9ab982bec9c:
+      title: CVII_Brahmā Sahāṃpati
+      base_file: CVII_Brahmā Sahāṃpati.txt
+      work_id: WD3DD3CAD
+    8852779dae584b778eaeca91926a9dbd:
+      title: CVII_Cāturmahārāja
+      base_file: CVII_Cāturmahārāja.txt
+      work_id: WB6FEF956
+    0328751547cd410ba4a5bba0a94100e0:
+      title: CVII_Mahākāśyapa and Ānanda
+      base_file: CVII_Mahākāśyapa and Ānanda.txt
+      work_id: W888CE108
+    d58bac454e1e49fa9d4d5990d4319255:
+      title: CVII_Maitreya
+      base_file: CVII_Maitreya.txt
+      work_id: WC3AA9DDE
+    419315a21b6b434290665278549aeed5:
+      title: CVII_Verses 233-238
+      base_file: CVII_Verses 233-238.txt
+      work_id: WE1E21E90
+    18367a455a144e02a1ef332972793ea3:
+      title: CVII_Śakra Devānām Indra
+      base_file: CVII_Śakra Devānām Indra.txt
+      work_id: W30A8BDAF
+    79689a79956c4217bc11668986f3bbf7:
+      title: CVI_Brahmā Prabhāvyūha
+      base_file: CVI_Brahmā Prabhāvyūha.txt
+      work_id: W61C9BABC
+    cc51a9fb9566497ab1385a52f4da4ee7:
+      title: CVI_Lokottaramārga
+      base_file: CVI_Lokottaramārga.txt
+      work_id: W924D4441
+    14483ea74647488d828f4437c99b60ff:
+      title: CVI_Mahāyāna
+      base_file: CVI_Mahāyāna.txt
+      work_id: WBB8B895A
+    331081d4e9bc49ef85b39be35f747369:
+      title: CVI_Māra Pāpīyān
+      base_file: CVI_Māra Pāpīyān.txt
+      work_id: W6B9FD383
+    bf32852496d64c738f6a673ed8a1799a:
+      title: CVI_Ratnaśrī
+      base_file: CVI_Ratnaśrī.txt
+      work_id: W05580292
+    9695aa4ab3d847d6a864ca85229ca984:
+      title: CVI_Saṃnāha
+      base_file: CVI_Saṃnāha.txt
+      work_id: WB71D7A09
+    ff588b9779c74ddc9be8bfc408272abc:
+      title: CVI_Verses 165-184
+      base_file: CVI_Verses 165-184.txt
+      work_id: W5CEE57A2
+    fb4ee92233334d6f8ddb82dc4bce5584:
+      title: CVI_Verses 185-192
+      base_file: CVI_Verses 185-192.txt
+      work_id: WBDB92988
+    345957ec408949979742a14ff3e5b816:
+      title: CVI_Verses 193-232
+      base_file: CVI_Verses 193-232.txt
+      work_id: W3E74A45F
+    34fab03aa5604eaf85c7e5964a841443:
+      title: CVI_Ānanda
+      base_file: CVI_Ānanda.txt
+      work_id: W720227FA
+    9ed6c2725f9e4fafbcc4c6726d04f380:
+      title: CVI_Śakrabrahmalokapāla
+      base_file: CVI_Śakrabrahmalokapāla.txt
+      work_id: W0CC14534
+    5ed1e66adb7642a9990aea60de53d705:
+      title: CV_Kutūhalajāta
+      base_file: CV_Kutūhalajāta.txt
+      work_id: WBBA33B39
+    96d535dddc484957a85d18e557b3e496:
+      title: CV_Samādhi
+      base_file: CV_Samādhi.txt
+      work_id: W9639EE6E
+    8d2c738142b046f2898f643ca27ee711:
+      title: CV_Samādhimukha
+      base_file: CV_Samādhimukha.txt
+      work_id: WF6F6E39E
+    97930a10fed84f7685430461f5728744:
+      title: CV_Verses 123-164
+      base_file: CV_Verses 123-164.txt
+      work_id: WC49BF1FA
+    fbc2a0bd58b641d883a11ba8d5b0d4d4:
+      title: CV_Śāriputra
+      base_file: CV_Śāriputra.txt
+      work_id: WFAFB4644
+    2feac7c02a294c7f93224d03e9c9a9d5:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: WD10B38B3
+    955c8ca038ce47c7820c05253b39054b:
+      title: III. 37 Questions
+      base_file: III. 37 Questions.txt
+      work_id: W45A74F67
+    ce85ad0866834ba8863d93303924f80d:
+      title: Title
+      base_file: Title.txt
+      work_id: W8C983AC3
+  chapter_to_tile:
+    CI: I. The Occasion
+    CII: II. Introduction
+    CIII: IV. 37 Answers
+    CIV: V. Miracle
+    CV: VI. Dialogues
+    CVI: VI. Dialogues Avādana
+    CVII: VII. Transmission
+created_at: '2022-03-01T21:27:15.552395'
+last_modified_at: '2022-03-01T21:27:15.552403'
